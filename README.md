@@ -1,4 +1,4 @@
-# ⚡ Neon Legal Document AI Simplifier
+# ⚡ Legal Document Simplifier
 
 An AI-powered web app that simplifies complex legal documents into easy-to-understand language using LLMs.
 
